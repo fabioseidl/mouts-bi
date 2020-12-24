@@ -3,7 +3,7 @@ Teste de conhecimentos em Business Intelligence realizado pela Mouts.
 
 ## Requisitos do Teste
 
-Rrecriar a tabela abaixo, com seus KPIS de acordo com as regras
+Recriar a tabela abaixo, com seus KPIS de acordo com as regras
 indicadas:
 
 ![Tabela](images/table_01.png)
